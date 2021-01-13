@@ -31,6 +31,8 @@ KeyedDecodingContainer that makes decoding heterogeneous arrays much cleaner.
 An example of using property wrappers to clean up some Codable issues that would otherwise require us
 to implement an entire Codable implementation just for one or two properties.
 
+Inspiration for this comes from [BetterCodable](https://github.com/marksands/BetterCodable) by Mark Sands.
+
 
 Presented to [iOS Conf SG](https://iosconf.sg) on January 21st, 2021.
 
