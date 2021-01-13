@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true'>
+    <pages>
+        <page name='1. Basic Example'/>
+        <page name='2.1 Changing Hierarchies '/>
+        <page name='2.2 Changing Hierarchies'/>
+        <page name='3.1 Heterogeneous Arrays'/>
+        <page name='3.2 Heterogeneous Arrays - Refactor'/>
+        <page name='4. Property Wrappers'/>
+    </pages>
+</playground>
